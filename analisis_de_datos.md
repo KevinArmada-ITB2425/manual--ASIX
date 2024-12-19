@@ -15,15 +15,18 @@ Aquest manual està enfocat a explicar l'ús d'intel·ligència artificial (IA) 
 
 
 ## 2. Aplicacions de la IA en Anàlisi de Dades
+<img src="https://www.pgrmt.com/hubfs/ia-revolucion-para-el-analisis-de-datos.jpg">
 L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals destaquen:
 
 
 ### 2.1. Processament de dades massives (Big Data)
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ADfs9MBSD2E2bPklQidOVU0sFS5da_1eQpqPk0r_uhyBcOBRSVibMBEQIshZEshBtCR5wa5jPU8Th4obbJn4JnTSERait3lzlkW3XuCXnmxlMLS8llDvGCAbKKHLzW302tUnuFCjeHTF/s1600/pasos_iterativos_ciencia_datos.jpg">
 - **Exemple:** Ús d'eines com Apache Spark amb models d'aprenentatge automàtic (MLlib).
 - **Aplicació:** Detectar patrons ocults i correlacions complexes en grans volums de dades.
 
 
 ### 2.2. Predicció i forecasting
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/NAM_500_MB.PNG/220px-NAM_500_MB.PNG">
 - **Exemple:** Models predictius amb TensorFlow o PyTorch.
 - **Aplicació:** Predicció de vendes, detecció de fraus i estimacions de demanda.
 
@@ -45,15 +48,18 @@ L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals d
 
 
 ### 3.1. Millores en la presa de decisions
+<img src="https://www.lexington.es/storage/blog/posts/proceso-de-toma-de-decisiones.jpg">
 - L'ús de la IA redueix el temps necessari per analitzar dades complexes.
 - Proporciona recomanacions basades en dades per millorar processos empresarials.
 
 
 ### 3.2. Creació de noves oportunitats laborals
+<img src="https://www.creaccio.cat/wp-content/uploads/2023/03/Fr-sSnlWIAM5t51.jpg">
 - Nous rols com a **científic de dades** o **enginyer de machine learning**.
 
 
 ### 3.3. Automatització i eficiència
+<img src="https://raona.com/wp-content/uploads/2024/06/raonamarketing_business_automation_2776dd3e-f53a-44f7-b121-bb64d76e3579l.webp">
 - Reducció d'errors manuals gràcies a sistemes automatitzats.
 - Optimització de recursos a partir de prediccions precises.
 
@@ -65,6 +71,7 @@ L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals d
 
 
 ### 4.1. Consum energètic elevat
+<img src="https://lleidaenverd.paeria.cat/wp-content/uploads/2017/05/campanya-estalvi-energetic-1.jpg">
 - L'entrenament de models IA requereix gran potència computacional.
  - **Exemple:** Entrenar GPT-3 consumeix una energia equivalent a l'emissió de diverses tones de CO2.
 
@@ -82,7 +89,7 @@ L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals d
 
 ## 5. Propostes per minimitzar els impactes ambientals
 
-
+<img src="https://sostenibles.org/wp-content/uploads/2020/03/infraestructuras-verdes.jpg">
 ### 5.1. Optimització de models
 - Utilitzar algoritmes més eficients que requereixin menys dades per entrenar-se.
 - Implementar **pruning** per reduir la mida dels models.
@@ -97,7 +104,7 @@ L'IA ofereix múltiples aplicacions per a l'anàlisi de dades, entre les quals d
 - Utilitzar components reciclats o actualitzar sistemes existents en lloc de comprar nous.
 
 
-### 5.4. Data centers ecològics
+### 5.4. Data centers ecològichttps://lleidaenverd.paeria.cat/wp-content/uploads/2017/05/campanya-estalvi-energetic-1.jpgs
 - Optimitzar el disseny dels centres per reduir el consum energètic (p.ex., refrigeració passiva).
 
 
