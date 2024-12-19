@@ -53,3 +53,4 @@ Este manual tiene como objetivo proporcionar una visión general de las aplicaci
 
 ## Conclusiones
 Este manual sirve como una guía inicial para entender las aplicaciones de la IA en el desarrollo de aplicaciones informáticas. La inteligencia artificial puede transformar los procesos de desarrollo, pero es esencial considerar también su impacto ambiental y buscar maneras de minimizarlo.
+.
