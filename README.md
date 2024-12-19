@@ -41,12 +41,20 @@ Para información sobre redes, consulta el archivo [xarxas.md](xarxas.md).
 
 ---
 ## Publicacion a Github Pages
-Para poder hacer la publicación en GitHub Pages, dentro de nuestro repositorio nos vamos a 
+Para poder hacer la publicación en GitHub Pages, dentro de nuestro repositorio nos vamos a
+
+---
 <img src="./imagenes/settings.png" alt="Configuración" width="300" />
 Y en el lado izquierdo nos saldrán varias opciones
+
+---
 <img src="./imagenes/barra_izquierda.png" alt="barra lateral" width="300" />
 Entramos en el apartado de **Pages**
+
+---
 <img src="./imagenes/Medicina.png" alt="Imagen IA salud" width="300" />
 Una vez dentro de Pages
+
+---
 <img src="./imagenes/pagess.png" alt="Pagina" width="300" />
 en el apartado de **Branch** seleccionamos la rama **Main** y le damos a save. Después de 1 o 2 minutos aparecerá **GitHub Pages** como que ya se ha publicado la página.
