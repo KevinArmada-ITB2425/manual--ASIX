@@ -57,4 +57,5 @@ Una vez dentro de Pages
 
 ---
 <img src="./imagenes/pagess.png" alt="Pagina" width="300" />
+
 en el apartado de **Branch** seleccionamos la rama **Main** y le damos a save. Después de 1 o 2 minutos aparecerá **GitHub Pages** como que ya se ha publicado la página.
