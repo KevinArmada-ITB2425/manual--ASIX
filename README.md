@@ -39,3 +39,6 @@ Para saber más sobre Gestión de la Seguridad, revisa el archivo [gestio_segure
 
 Para información sobre redes, consulta el archivo [xarxas.md](xarxas.md).
 
+---
+## Publicacion a Github Pages
+Para poder hacer la publicación en GitHub Pages, dentro de nuestro repositorio nos vamos a **Settings** y en el lado izquierdo nos saldrán varias opciones y nosotros nos fijaremos en **Pages**. Una vez dentro de Pages, en el apartado de **Branch** seleccionamos la rama **Main** y le damos a save. Después de 1 o 2 minutos aparecerá **GitHub Pages** como que ya se ha publicado la página.
