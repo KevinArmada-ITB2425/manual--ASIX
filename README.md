@@ -37,5 +37,5 @@ Para saber más sobre Gestión de la Seguridad, revisa el archivo [gestio_segure
     <img src="https://img.redestelecom.es/wp-content/uploads/2024/04/22124120/Conexiones-con-perifericos--1620x1080.jpg" alt="Redes" style="width: 500px; height: auto;" />
 </a>
 
-Para información sobre redes, consulta el archivo [xarxes.md](xarxes.md).
+Para información sobre redes, consulta el archivo [xarxas.md](xarxas.md).
 
